@@ -9,7 +9,6 @@ This Symfony2 bundle allow to:
 * add new translations in the database.
 
 [![Build Status](https://travis-ci.org/lexik/LexikTranslationBundle.png?branch=master)](https://travis-ci.org/lexik/LexikTranslationBundle)
-![Project Status](http://stillmaintained.com/lexik/LexikTranslationBundle.png)
 [![Latest Stable Version](https://poser.pugx.org/lexik/translation-bundle/v/stable.svg)](https://packagist.org/packages/lexik/translation-bundle)
 [![SensioLabsInsight](https://insight.sensiolabs.com/projects/dda3efbd-0df3-44eb-beca-3659000021d4/mini.png)](https://insight.sensiolabs.com/projects/dda3efbd-0df3-44eb-beca-3659000021d4)
 
@@ -26,10 +25,10 @@ You can also export translations from the database in to files in case of you ne
 Documentation
 =============
 
-For installation and configuration refer to [Resources/doc/index.md](https://github.com/lexik/LexikTranslationBundle/blob/master/Resources/doc/index.md)
+For installation and configuration refer to [Resources/doc/index.md](https://github.com/adiIspas/lexik/blob/master/translation-bundle/Resources/doc/index.md)
 
 ___________________
 
 Here a little screen shot of the edition page :)
 
-![edition page screen](https://github.com/lexik/LexikTranslationBundle/raw/master/Resources/doc/screen/grid.jpg)
+![edition page screen](https://github.com/adiIspas/lexik/blob/master/translation-bundle/Resources/doc/screen/grid.jpg)
