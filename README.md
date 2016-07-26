@@ -1,6 +1,6 @@
 Overview
 ========
-The [authors](https://github.com/lexik) of bundle from which i started develop this version.
+The [AUTHORS](https://github.com/lexik) of bundle from which i started develop this version.
 
 This Symfony2 bundle allow to:
 
