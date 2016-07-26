@@ -23,6 +23,10 @@ translations:
     latest_profiles:        "Latest profiles"
     profile:                "Profile"
     new_page_title:         "Übersetzung hinzufügen"
+    export_changes:         "Export Änderungen"
+    export_changes_success: "Änderungen wurden erfolgreich exportiert"
+    import_translations: "Import Übersetzung"
+    import_translations_success: "Die Übersetzungen wurden erfolgreich importiert"
 
 overview:
     page_title: "Overview"
