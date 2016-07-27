@@ -92,7 +92,7 @@ class TranslationController extends Controller
     public function exportChangesAction(Request $request)
     {
 
-        $output = fopen("exportcommand.txt", "w");
+        $output = fopen("exportcommand.log", "w");
         $cmd = 'php ../app/console lexik:translations:export --format=xliff';
 
         $process = new Process($cmd);
@@ -123,7 +123,7 @@ class TranslationController extends Controller
     public function importTranslationsAction(Request $request)
     {
 
-        $output = fopen("importcommand.txt", "w");
+        $output = fopen("importcommand.log", "w");
         $cmd = 'php ../app/console lexik:translations:import --application-bundles';
 
         $process = new Process($cmd);
