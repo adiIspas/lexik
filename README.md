@@ -32,4 +32,4 @@ ___________________
 
 Here a little screen shot of the edition page :)
 
-![edition page screen](https://github.com/adiIspas/lexik/blob/master/translation-bundle/Resources/doc/screen/grid.jpg)
+![edition page screen](https://github.com/adiIspas/lexik/blob/master/translation-bundle/Resources/doc/screen/grid.jpg) 
